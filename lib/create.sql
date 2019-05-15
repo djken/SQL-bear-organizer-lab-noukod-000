@@ -1,6 +1,6 @@
 CREATE TABLE bears (
   name TEXT,
-  age INT,
+  age INTEGER,
   gender TEXT,
   color TEXT,
   temperament TEXT,
